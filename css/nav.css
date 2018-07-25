@@ -1,0 +1,62 @@
+/*
+Designed and coded by Richard Morley. 
+http://www.rkmorley.co.uk
+*/
+/*Header*/
+.header {
+    border-top: 0;
+}
+.header ul.log-in li, .header ul.log-in li a {
+    font-size: 16px;
+    color: #666;
+    cursor: pointer;
+    display: inline;
+    text-decoration: none;
+}
+.footer {
+    border-top: 1px solid #dadada;
+    background: #FFF;
+    margin-top: 2%;
+}
+.footer p {
+    font-size: 16px;
+}
+drop-down {
+    float:left;
+/*    background: url(../images/arrows.png) 90% / 8% no-repeat #267fc7;*/
+    padding: 16px 35px 16px 15px;
+    color: #FFF;
+    border: 0;
+    -webkit-border-radius: 3px;
+    border-radius: 3px; 
+    font-size: 18px;
+    margin: 0 0 20px 0;
+    width: 220px;    
+}
+
+
+.navigation.buttonOptions{
+    background:blue !important;
+}
+
+.navigation{
+    padding: 0 30px;
+}
+
+/*Navigation*/
+.rmm.style ul li{
+  position: relative;
+  z-index: 1200;
+}
+
+.nav {
+    border-radius: 3px;
+    background: #FFF;
+    border: 1px dotted #889aa5;
+    width: 100%;
+    height: 54px;
+    padding: 0 20px;
+
+}
+
+
